@@ -16,7 +16,7 @@ A SwiftUI-based iOS weather application that fetches real-time weather data usin
 •⁠  ⁠MVVM Architecture
 
 Screenshots
-<img src="Simulator Screenshot - iPhone 17 Pro - 2025-12-27 at 16.50.23.png" Widht= "300" />
+<img src="Simulator Screenshot - iPhone 17 Pro - 2025-12-27 at 16.50.23.png" Widht= "50" />
 
  How to Run
 1.⁠ ⁠Clone the repository
